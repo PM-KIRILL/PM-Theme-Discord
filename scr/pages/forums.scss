@@ -1,0 +1,152 @@
+/* FORUMS */
+%themeDark %forumContainer{
+    background: rgba(0, 0, 0, calc(#{cv('bg.app.shading')} * 0.3));
+}
+%forumCardContainer {
+    &%forumOpenCard {
+        background: hsla(0, 0%, 0%, 0.3);
+    }
+}
+%forumCard {
+    background: hsla(0, 0%, 0%, 0.3);
+    border: 2px solid $main-color;
+    &:hover {
+        background: hsla(0, 0%, 0%, 0.3);
+        border: 2px solid $hover-color;
+    }
+    %channelTextArea {
+        background: hsla(0, 0%, 100%, 0.07);
+        width: 95%;
+        %channelTextAreaScrollable {
+            background: transparent;
+        }
+    }
+    %forumContentContainer {
+        padding: 10px 0px 0px 0px;
+    }
+    %themeDark &%forumCardIsOpen {
+        background-color: hsla(0,0%,100%,0.1);
+    }
+}
+%forumHeaderRow {
+    %forumCard,
+    %forumCard:hover {
+        border: 2px solid transparent;
+    }
+}
+%forumHeaderBorder {
+    box-shadow: 0 0 0 2px transparent;
+}
+%forumCardName {
+	color: #fff !important;
+}
+%themeDark %forumTag {
+	background: hsla(0, 0%, 0%, 0.6);
+	border: 2px solid $main-color;
+    &%forumTagClickable:not(%forumTagDisabled):hover {
+        background: transparent;
+        border: 2px solid $hover-color;
+    }
+    &%forumTagSelected {
+        border: 2px solid var(--success-color);
+    }
+}
+%forumGuidelineContainer, %forumTagContainer {
+	background: hsla(0, 0%, 0%, 0.3);
+	border: none;
+}
+%forumPencilIcon, %forumSearchIcon, %forumCloseIcon {
+	color: rgba(255,255,255,.9);
+	width: 20px;
+	height: 20px;
+	left: 10px;
+	top: 10px;
+    &:hover {
+        color: #fff;
+    };
+}
+%forumSearch {
+    font-family: var(--main-font);
+    font-weight: 300;
+    padding: 0 5px 0 5px;
+    background: transparent;
+    border-radius: 4px;
+}
+%forumSearchRow {
+	background-color: rgba(0,0,0,.3);
+}
+%forumTagBox {
+	background: rgba(0,0,0,.7);
+    %forumTagBoxCount {
+        background-color: $main-color;
+    }
+    %forumTagClear {
+        color: $main-color;
+        &:hover {
+            color: $hover-color;
+        }
+    }
+}
+%forumTagCount {
+	background-color: var(--main-color);
+}
+%forumSortDropdown {
+	background-color: var(--main-color);
+    > *,
+    %forumSortDropdownText {
+        color: #fff !important;
+    }
+}
+%forumTagButton {
+	background-color: rgba(0,0,0,.3);
+    %forumTagButtonInner {
+        color: #fff;
+    }
+}
+
+%themeDark %forumContentFooter {
+    background: transparent;
+}
+
+%forumRules {
+    background: rgba(0,0,0,.3);
+    border: 2px solid $main-color;
+    %forumRulesDesc {
+        background: rgba(0,0,0,.3);
+    }
+    %forumRulesGradient {
+        background: linear-gradient(0deg, rgba(0,0,0,.8), transparent);
+    }
+    %forumRulesLinkContainer {
+        background: rgba(0,0,0,.8);
+    }
+    %textSmallBold,
+    %textSmallSemibold {
+        color: $main-color;
+        &:hover {
+            color: $hover-color;
+        }
+    }
+}
+
+%forumLoadingCard {
+	background: hsla(0, 0%, 0%, 0.3); 
+}
+%forumUploadIcon {
+    background: $main-color;
+    transition: all .15s ease-in-out;
+    &:hover {
+        background: $hover-color;
+        transition: all .15s ease-in-out;
+    }
+}
+
+/* FORUM CHAT */
+%forumChatIcon {
+	background: $main-color;
+}
+%forumChatHead,
+%forumChatDivider,
+%forumChatStartBox {
+	background-color: transparent;
+}

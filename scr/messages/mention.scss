@@ -1,0 +1,55 @@
+/* MENTIONS */
+%themeDark {
+  %mention {
+    padding: 1px 4px;
+    border-radius: 5px;
+    line-height: 22px;
+    white-space: nowrap;
+    transition: all 0.15s ease-in-out;
+    background-color: hsla(0, 0%, 100%, 0.1);
+    color: hsla(0, 0%, 100%, 0.7);
+    &:hover {
+      background-color: $main-color;
+      color: #fff;
+    }
+    &%mentionIcon {
+      padding-left: 1.2rem;
+    }
+  }
+  strong {
+    >%mention {
+      font-weight: 600;
+    }
+  }
+  %mentioned {
+    %mention%mentionedInteractive {
+      color: $main-color;
+      &:hover {
+        color: #fff;
+        text-decoration: none;
+      }
+    }
+  }
+}
+%mentioned {
+  background-color: hsla(0, 0%, 100%, 0.05);
+  &%message%messageSelected,
+  %mouseModeFullMotion &:hover {
+    background-color: hsla(0, 0%, 100%, 0.08);
+  }
+  &::before {
+    background-color: $main-color;
+  }
+}
+
+// CHANNEL MENTION
+%channelMention {
+  padding: 1px 4px;
+  border-radius: 5px;
+  transition: all 0.15s ease-in-out;
+  background-color: $main-color;
+  color: #fff;
+  &:hover {
+    background-color: $hover-color;
+  }
+}
