@@ -41,20 +41,11 @@ https://github.com/PM-KIRILL/PM-Theme.github.io/releases/download/PM-Theme/PM-Th
 
 ## 🙋 FAQ
 
-- Q: **_"Can this get my account banned?"_**
-- A: Using third party clients and injecting custom css is against the ToS. While nobody has ever been banned for simply using discord client mods, We are not responsible for anything that might happen to your account by using third party clients. Use at your own discretion!
-
-## 💝 Thanks to
-
-- [GlowingUmbreon](https://github.com/glowingumbreon)
-- [Isabelinc](https://github.com/Isabelincorp)
-- [Ren](https://github.com/watatomo)
-- [winston](https://github.com/nekowinston)
-- [rubyowo](https://github.com/rubyowo)
-- [Aven](https://github.com/ToxicAven)
+- Q: **_"Может ли это привести к блокировке моего аккаунта?"_**
+- A: Использование сторонних клиентов и внедрение пользовательских CSS противоречит Условиям использования. Хотя никто никогда не был забанен просто за использование модов клиента Discord, мы не несем ответственности за все, что может случиться с вашей учетной записью при использовании сторонних клиентов. Используйте по своему усмотрению!
 
 &nbsp;
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
-<p align="center">Copyright &copy; 2021-present <a href="https://github.com/catppuccin" target="_blank">Catppuccin Org</a>
-<p align="center"><a href="https://github.com/catppuccin/catppuccin/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&colorA=363a4f&colorB=b7bdf8"/></a></p>
+<p align="center">Copyright &copy; 2024 <a href="https://github.com/PM-Kirill" target="_blank">PM-Kirill</a>
+<p align="center"><a href="https://pm-kirill.github.io/PM-Theme.github.io/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&colorA=363a4f&colorB=b7bdf8"/></a></p>
