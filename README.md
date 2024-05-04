@@ -30,21 +30,15 @@
 
 ```css
 /* Веб-Тема */
-https://github.com/PM-KIRILL/PM-Theme.github.io/releases/download/PM-Theme/PM-Theme.css
+https://raw.githubusercontent.com/PM-KIRILL/PM-Theme.github.io/main/PM-Theme.css
 ```
 
 - Custom CSS:
 
 ```css
 /* Веб-Тема */
-@import url("https://github.com/PM-KIRILL/PM-Theme.github.io/releases/download/PM-Theme/PM-Theme.css")
+@import url("https://raw.githubusercontent.com/PM-KIRILL/PM-Theme.github.io/main/PM-Theme.css")
 ```
-
-### [Stylus](https://github.com/openstyles/stylus)
-
-1. Включите патчинг CSP в настройках Stylus > Дополнительно.
-2. [Нажмите здесь, чтобы установить](https://github.com/catppuccin/discord/raw/main/discord.user.css).
-3. Выберите ваш выбранный вариант и цвет акцента из выпадающего списка настроек Stylus.
 
 ## 🙋 Часто задаваемые вопросы
 
