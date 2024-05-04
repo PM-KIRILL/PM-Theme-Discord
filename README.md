@@ -30,7 +30,7 @@
 
 ```css
 /* WebTheme */
-https://github.com/PM-KIRILL/PM-Theme.github.io/releases/download/PM-Theme/PM-Theme.css;
+https://github.com/PM-KIRILL/PM-Theme.github.io/releases/download/PM-Theme/PM-Theme.css
 ```
 
 ### [Stylus](https://github.com/openstyles/stylus)
