@@ -19,7 +19,7 @@
 
 1. Download your preferred flavour:
 
-- 🌙 [Night](.PM-Theme.css?raw=1)
+- 🌙 [Night](PM-Theme.css?raw=1)
 
 2. Copy the downloaded file to your BetterDiscord themes folder.
 3. Enable the theme in BetterDiscord settings.
