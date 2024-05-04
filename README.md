@@ -4,7 +4,7 @@
     <a href="https://github.com/catppuccin/discord/contributors"><img src="https://img.shields.io/github/contributors/PM-KIRILL/PM-Theme.github.io?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-![Предпросмотр темы для Discord](assets/preview.webp)
+![Предпросмотр темы для Discord](Night.png)
 
 ## Предпросмотры
 
