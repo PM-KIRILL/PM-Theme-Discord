@@ -10,7 +10,7 @@
 
 <details>
 <summary>🌙 Ночь</summary>
-<img src="assets/night.png"/>
+<img src="Night.png"/>
 </details>
 
 ## Использование
