@@ -28,17 +28,17 @@
 
 - Online Themes:
 
-'''css
+```css
 /* Веб-Тема */
 https://github.com/PM-KIRILL/PM-Theme.github.io/releases/download/PM-Theme/PM-Theme.css
-'''
+```
 
 - Custom CSS:
 
-'''css
+```css
 /* Веб-Тема */
 @import url("https://github.com/PM-KIRILL/PM-Theme.github.io/releases/download/PM-Theme/PM-Theme.css")
-'''
+```
 
 ### [Stylus](https://github.com/openstyles/stylus)
 
