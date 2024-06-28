@@ -10,7 +10,7 @@
 
 <details>
 <summary>🌙 Ночь</summary>
-<img src="PV.png"/>
+<img src="kQTvwHq.png"/>
 </details>
 
 ## Использование
