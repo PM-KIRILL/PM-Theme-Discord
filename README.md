@@ -9,7 +9,9 @@
 ## Предпросмотры
 
 <details>
-<summary>🌙 Ночь</summary>
+<summary>🌙 Ночь (Arch Linux/Windows)</summary>
+<img src="Night.png"/>
+<summary>🌙 Ночь (MacOS)</summary>
 <img src="kQTvwHq.png"/>
 </details>
 
