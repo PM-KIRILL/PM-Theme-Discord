@@ -11,6 +11,8 @@
 <details>
 <summary>🌙 Ночь (Arch Linux/Windows)</summary>
 <img src="Night.png"/>
+</details>
+<details>
 <summary>🌙 Ночь (MacOS)</summary>
 <img src="kQTvwHq.png"/>
 </details>
