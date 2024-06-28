@@ -1,7 +1,7 @@
 <p align="center">
-    <a href="https://github.com/catppuccin/discord/stargazers"><img src="https://img.shields.io/github/stars/PM-KIRILL/PM-Theme.github.io?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/discord/issues"><img src="https://img.shields.io/github/issues/PM-KIRILL/PM-Theme.github.io?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/discord/contributors"><img src="https://img.shields.io/github/contributors/PM-KIRILL/PM-Theme.github.io?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+    <a href="https://github.com/PM-KIRILL/PM-Theme.github.io"><img src="https://img.shields.io/github/stars/PM-KIRILL/PM-Theme.github.io?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+    <a href="https://github.com/PM-KIRILL/PM-Theme.github.io"><img src="https://img.shields.io/github/issues/PM-KIRILL/PM-Theme.github.io?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+    <a href="https://github.com/PM-KIRILL/PM-Theme.github.io"><img src="https://img.shields.io/github/contributors/PM-KIRILL/PM-Theme.github.io?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 ![Предпросмотр темы для Discord](Night.png)
