@@ -9,11 +9,11 @@
 ## Предпросмотры
 
 <details>
-<summary>🌙 Ночь (Arch Linux/Windows)</summary>
+<summary>PM-Theme (Arch Linux/Windows)</summary>
 <img src="Night.png"/>
 </details>
 <details>
-<summary>🌙 Ночь (MacOS)</summary>
+<summary>PM-Theme (MacOS)</summary>
 <img src="kQTvwHq.png"/>
 </details>
 
@@ -23,7 +23,7 @@
 
 1. Загрузите файл:
 
-- 🌙 [Night](https://github.com/PM-KIRILL/PM-Theme.github.io/releases/download/PM-Theme/PM-Theme.css)
+-  [PM-Theme](https://github.com/PM-KIRILL/PM-Theme.github.io/releases/download/PM-Theme/PM-Theme.css)
 
 2. Скопируйте загруженный файл в папку тем BetterDiscord/Vencord.
 3. Включите тему в настройках BetterDiscord/Vencord.
