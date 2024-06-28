@@ -9,11 +9,11 @@
 ## Предпросмотры
 
 <details>
-<summary>PM-Theme (Arch Linux/Windows)</summary>
+<summary>🖥PM-Theme (Arch Linux/Windows)</summary>
 <img src="Night.png"/>
 </details>
 <details>
-<summary>PM-Theme (MacOS)</summary>
+<summary>💻PM-Theme (MacOS)</summary>
 <img src="kQTvwHq.png"/>
 </details>
 
