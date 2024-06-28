@@ -19,7 +19,7 @@
 
 ## Использование
 
-### [BetterDiscord](https://betterdiscord.app)
+### [BetterDiscord](https://betterdiscord.app)/[Vencord](https://vencord.dev/)
 
 1. Загрузите файл:
 
