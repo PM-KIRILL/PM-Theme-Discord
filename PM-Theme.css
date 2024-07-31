@@ -4,12 +4,13 @@
  * @website https://pm-kirill.fun/
  * @authorLink https://github.com/PM-Kirill
  * @authorId 1081189420780240917
- * @version 1.1
+ * @version 1.2
  * @invite ap6e7Q7c7R
  * @description Лучшая тема Discord в ораньжевом акценте.
  * @source https://github.com/PM-Kirill/PM-Theme.github.io
  * @updateUrl https://github.com/PM-Kirill/PM-Theme.github.io/main/PM-Theme.css
 */
+@import url('https://raw.githubusercontent.com/PM-KIRILL/PM-Theme.github.io/main/css/anim.css');
 @import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 :root {
 	--font: 'figtree';
@@ -858,7 +859,6 @@ button.button_ae40a4 {
 .bottom__53f5a > .containerPadding_ca1052:hover {
 	margin-bottom: -12px;
 }
-@import url('https://raw.githubusercontent.com/PM-KIRILL/PM-Theme.github.io/main/css/anim.css');
 
 .theme-light {
 	--text-link: var(--accent-5);
