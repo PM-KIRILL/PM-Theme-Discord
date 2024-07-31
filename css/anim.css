@@ -1,6 +1,7 @@
 body {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
+    font-family: 'Figtree', sans-serif;
 }
 
 body::after, .callout-backdrop::after {
