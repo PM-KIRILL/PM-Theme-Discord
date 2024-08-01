@@ -55,6 +55,7 @@ https://raw.githubusercontent.com/PM-KIRILL/PM-Theme.github.io/main/PM-Theme.css
 <p align="center">Авторские права &copy; 2024 <a href="https://github.com/PM-Kirill" target="_blank">PM-Kirill</a>
 <p align="center"><a href="https://github.com/PM-KIRILL/PM-Theme.github.io/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a></p>
 
+<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/PM-Kirill/count.svg" />
 </p>
