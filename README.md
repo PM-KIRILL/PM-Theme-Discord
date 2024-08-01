@@ -14,7 +14,7 @@
 </details>
 <details>
 <summary>💻 PM-Theme (MacOS)</summary>
-<img src="kQTvwHq.png"/>
+<img src="macosPM.png"/>
 </details>
 
 ## Использование
