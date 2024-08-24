@@ -4,7 +4,9 @@
     <a href="https://github.com/PM-KIRILL/PM-Theme.github.io"><img src="https://img.shields.io/github/contributors/PM-KIRILL/PM-Theme.github.io?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-![Предпросмотр темы для Discord](Night.png)
+<p align="center">
+<img src="Night.png" alt="Предпросмотр темы для Discord" style="width: 75%; margin-bottom: 20px; border-radius: 8px;">
+</p>
 
 ## 👁‍🗨 Предпросмотр
 **По умолчанию**
