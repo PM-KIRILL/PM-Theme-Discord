@@ -7,15 +7,30 @@
 ![Предпросмотр темы для Discord](Night.png)
 
 ## 👁‍🗨 Предпросмотр
+**По умолчанию**
 
-<details>
-<summary>🖥 PM-Theme (Arch Linux/Windows)</summary>
-<img src="Night.png"/>
-</details>
-<details>
-<summary>💻 PM-Theme (MacOS)</summary>
-<img src="macosPM.png"/>
-</details>
+<div class="container">
+    <details class="theme-card">
+        <summary> 💻 Тема по умолчанию </summary>
+        <p>Главное меню на Win/linux</p>
+        <img src="Night.png" alt="PM-Theme-Default" style="border-radius: 8px;">
+        <p>Главное меню на MacOS</p>
+        <img src="macosPM.png" alt="PM-Theme-Default-MacOS" style="border-radius: 8px;">
+    </details>
+</div>
+
+**Ice Night**
+
+<div class="container">
+    <details class="theme-card">
+        <summary> 💻 Тема Ice Night </summary>
+        <p>Главное меню на Win/linux</p>
+        <img src="PM-Theme-Ice-Night-Arch-or-Win.png" alt="PM-Theme-Ice-Night" style="border-radius: 8px;">
+        <p>Меню настроек</p>
+        <img src="PM-Theme-Ice-Night-Settings-Arch-or-Win.png" alt="PM-Theme-Ice-Night-Settings" style="border-radius: 8px;">
+        <img src="PM-Theme-Ice-Night-Settings-Nitro-Arch-or-Win.png" alt="PM-Theme-Ice-Night-Settings" style="border-radius: 8px;">
+    </details>
+</div>
 
 ## Использование
 
@@ -23,13 +38,15 @@
 
 1. Загрузите файл:
 
--  [PM-Theme](https://github.com/PM-KIRILL/PM-Theme.github.io/releases/download/PM-Theme/PM-Theme.css)
+-  [PM-Theme-Default](https://github.com/PM-KIRILL/PM-Theme.github.io/releases/download/PM-Theme/PM-Theme.css)
+-  [PM-Theme-Default](https://github.com/PM-KIRILL/PM-Theme.github.io/releases/download/PM-Theme/PM-Theme-Ice-Night.theme.css)
 
 2. Скопируйте загруженный файл в папку тем BetterDiscord/Vencord.
 3. Включите тему в настройках BetterDiscord/Vencord.
 
 ### Клиенты/Моды с поддержкой пользовательских CSS онлайн
 
+**По умолчанию**
 - Online Themes:
 
 ```css
@@ -42,6 +59,21 @@ https://raw.githubusercontent.com/PM-KIRILL/PM-Theme.github.io/main/PM-Theme.css
 ```css
 /* Веб-Тема */
 @import url("https://raw.githubusercontent.com/PM-KIRILL/PM-Theme.github.io/main/PM-Theme.css")
+```
+
+**IceNight**
+- Online Themes:
+
+```css
+/* Веб-Тема */
+https://raw.githubusercontent.com/PM-KIRILL/PM-Theme.github.io/main/PM-Theme-Ice-Night.theme.css
+```
+
+- Custom CSS:
+
+```css
+/* Веб-Тема */
+@import url("https://raw.githubusercontent.com/PM-KIRILL/PM-Theme.github.io/main/PM-Theme-Ice-Night.theme.css")
 ```
 
 ## 🙋 Часто задаваемые вопросы
