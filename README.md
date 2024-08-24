@@ -79,6 +79,13 @@ https://raw.githubusercontent.com/PM-KIRILL/PM-Theme.github.io/main/PM-Theme-Ice
 @import url("https://raw.githubusercontent.com/PM-KIRILL/PM-Theme.github.io/main/PM-Theme-Ice-Night.theme.css")
 ```
 
+## 🌟 Настройка цветовой схемы
+<p align="center">
+    <a href="https://github.com/PM-KIRILL/PM-Theme-Discord/blob/main/Customize.md">
+        <img src="https://img.shields.io/badge/Customize%20Color%20Scheme-FF6000?style=for-the-badge&logo=github&logoColor=363a4f" alt="Настройка цветовой схемы">
+    </a>
+</p>
+
 ## 🙋 Часто задаваемые вопросы
 
 - В: **_"Может ли это привести к блокировке моего аккаунта?"_**
