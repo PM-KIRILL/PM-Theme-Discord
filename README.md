@@ -11,28 +11,29 @@
 ## 👁‍🗨 Предпросмотр
 **По умолчанию**
 
-<div class="container">
-    <details class="theme-card">
+<div class="container" style="overflow-x: scroll; white-space: nowrap;">
+    <details class="theme-card" style="display: inline-block; margin-right: 20px;">
         <summary> 💻 Тема по умолчанию </summary>
         <p>Главное меню на Win/linux</p>
-        <img src="Night.png" alt="PM-Theme-Default" style="border-radius: 8px;">
+        <img src="Night.png" alt="PM-Theme-Default" style="width: 1024px; border-radius: 8px;">
         <p>Главное меню на MacOS</p>
-        <img src="macosPM.png" alt="PM-Theme-Default-MacOS" style="border-radius: 8px;">
+        <img src="macosPM.png" alt="PM-Theme-Default-MacOS" style="width: 1024px; border-radius: 8px;">
     </details>
 </div>
 
 **Ice Night**
 
-<div class="container">
-    <details class="theme-card">
+<div class="container" style="overflow-x: scroll; white-space: nowrap;">
+    <details class="theme-card" style="display: inline-block; margin-right: 20px;">
         <summary> 💻 Тема Ice Night </summary>
         <p>Главное меню на Win/linux</p>
-        <img src="PM-Theme-Ice-Night-Arch-or-Win.png" alt="PM-Theme-Ice-Night" style="border-radius: 8px;">
+        <img src="PM-Theme-Ice-Night-Arch-or-Win.png" alt="PM-Theme-Ice-Night" style="width: 1024px; border-radius: 8px;">
         <p>Меню настроек</p>
-        <img src="PM-Theme-Ice-Night-Settings-Arch-or-Win.png" alt="PM-Theme-Ice-Night-Settings" style="border-radius: 8px;">
-        <img src="PM-Theme-Ice-Night-Settings-Nitro-Arch-or-Win.png" alt="PM-Theme-Ice-Night-Settings" style="border-radius: 8px;">
+        <img src="PM-Theme-Ice-Night-Settings-Arch-or-Win.png" alt="PM-Theme-Ice-Night-Settings" style="width: 1024px; border-radius: 8px;">
+        <img src="PM-Theme-Ice-Night-Settings-Nitro-Arch-or-Win.png" alt="PM-Theme-Ice-Night-Settings" style="width: 1024px; border-radius: 8px;">
     </details>
 </div>
+
 
 ## Использование
 
@@ -41,7 +42,7 @@
 1. Загрузите файл:
 
 -  [PM-Theme-Default](https://github.com/PM-KIRILL/PM-Theme.github.io/releases/download/PM-Theme/PM-Theme.css)
--  [PM-Theme-Default](https://github.com/PM-KIRILL/PM-Theme.github.io/releases/download/PM-Theme/PM-Theme-Ice-Night.theme.css)
+-  [PM-Theme-Ice-Night](https://github.com/PM-KIRILL/PM-Theme.github.io/releases/download/PM-Theme/PM-Theme-Ice-Night.theme.css)
 
 2. Скопируйте загруженный файл в папку тем BetterDiscord/Vencord.
 3. Включите тему в настройках BetterDiscord/Vencord.
